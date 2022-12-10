@@ -1,6 +1,6 @@
-![](./exemple_image.ppm)
+<img src="./exemple_image.ppm" width="800">
 
-![](./exemple_image2.ppm)
+<img src="./exemple_image2.ppm" width="800">
 
 # Utilisation
 
