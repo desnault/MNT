@@ -1,6 +1,6 @@
-<img src="./exemple_image.ppm" width="800">
+<img src="./data/exemple_image.ppm" width="300">
 
-<img src="./exemple_image2.ppm" width="800">
+<img src="./data/exemple_image2.ppm" width="300">
 
 # Utilisation
 
