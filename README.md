@@ -5,3 +5,5 @@
 # Utilisation
 
 Launch build.sh to build the projet
+
+Save the text file in data repository
